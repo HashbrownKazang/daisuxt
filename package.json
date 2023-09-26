@@ -5,6 +5,9 @@
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
+  "devDependencies": {
+    "nuxt": "3."
+  },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6",
     "daisyui": "^3",
