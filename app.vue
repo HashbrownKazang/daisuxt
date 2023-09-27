@@ -1,6 +1,6 @@
 <template>
   <div class="p-4">
-    <button class="btn">Hello daisyUI</button>
+    <button class="btn" href="https://spuntentertainment.com">spuntentertainment</button>
   </div>
   <div>
     <footer />
